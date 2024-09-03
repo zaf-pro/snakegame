@@ -3,7 +3,7 @@ import random
 
 # setting up some initial parameters
 WIDTH, HEIGHT = 600, 600
-BLOCK_SIZE = 20
+BLOCK_SIZE = 50
 
 pygame.font.init()
 score_font = pygame.font.SysFont("consolas", 20)  # or any other font you'd like
